@@ -1,0 +1,143 @@
+body{
+ 
+}
+.card{
+    border-style: none;
+}
+a{ 
+    color: #fff;
+    text-decoration: none;
+
+}
+a:hover{
+    text-decoration: none;
+}
+.submit_green{
+    border: none;
+    border-radius: 100px;
+background: #145214;
+color: #fff; 
+}
+.submit_green:hover{
+    background: #fff;
+  box-shadow: 0px 2px 10px 5px #85e085;
+  color: #000;
+}
+.login{
+border-radius: 100px;
+background: #f72359;
+color: #fff;     
+}
+.login:hover{
+    background: #fff;
+  box-shadow: 0px 2px 10px 5px #fdceda;
+  color: #000;
+}
+.admin_button{
+    border: none;
+ background: #003366;
+color: #fff;    
+}
+.view{
+    margin-top: 100px;
+}
+.admin_button a:hover{
+    color: #000;
+}
+.admin_button:hover{
+    background: #fff;
+    box-shadow: 0px 2px 10px 5px #3399ff;
+   color: #000;
+ }
+ .teacher{
+border: none;
+ background: #003366;
+color: #fff;  
+ }
+ .teacher:hover{
+  background: #fff;
+    box-shadow: 0px 2px 10px 5px #3399ff;
+   color: #000;  
+ }
+ .student{
+    border: none;
+border-radius: 100px;
+background: #145214;
+color: #fff;
+ }
+ .student:hover{
+background: #fff;
+  box-shadow: 0px 2px 10px 5px #85e085;
+  color: #000;
+      }
+ .teacher a:hover{
+    color: #000;
+ }
+.hero-image{
+	background-image: url("hero.jpg");
+	max-height: 100%;
+	max-width: 100% ;
+	background-size: cover;
+ background-repeat: no-repeat;
+}
+ul.socialIcons {
+    padding: 0;
+    margin: 0;
+    text-align: center;
+}
+h2{
+	color: #fff;
+}
+.socialIcons li {
+    background: yellow;
+    list-style: none;
+    display: inline-block;
+    margin: 15px;
+    margin-top: 15%;
+    border-radius: 2em;
+    overflow:hidden;
+}
+.socialIcons li a {
+    display: block;
+    padding: .5em .8em;
+    max-width: 2.3em;
+    min-width: 2.3em;
+    height: 2.1em;
+    white-space: nowrap;
+    line-height: 1.2em;
+    transition:.5s;
+    text-decoration: none;
+    font-family: arial;
+    color: #fff;
+}
+.socialIcons li i {
+    margin-right:.8em;
+}
+.socialIcons li:hover a {
+    max-width:200px;
+    padding-right:1em;
+}
+.socialIcons .facebook {
+    background: #3b5998;
+    box-shadow: 0 0 16px #3b5998;
+    padding-left: .2em;
+}
+.socialIcons .twitter {
+    background: #00aced;
+    box-shadow: 0 0 16px #00aced;
+}
+.socialIcons .instagram {
+    background: #cd486b;
+    box-shadow: 0 0 16px #cd486b;
+}
+.socialIcons .pinterest {
+    background: #c92228;
+    box-shadow: 0 0 16px #c92228;
+}
+.socialIcons .steam {
+    background: #666666;
+    box-shadow: 0 0 16px #666666;
+}
+.container{
+	margin-top: 80px;
+}
