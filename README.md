@@ -1,1 +1,5 @@
 # Student_attendance_system
+STEP 1: DOWNLOAD XAMPP.
+STEP 2: INSIDE PHPMYADMIN IMPORT "student_attendance_system.sql".
+READY TO USE.
+THERE ARE MANY LIMITATION OF THE PROJECT.
