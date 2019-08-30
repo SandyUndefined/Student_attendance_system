@@ -22,7 +22,6 @@ this can be done by:
 3.import student_attendance_system.sql from this repositories.
 
 
-
 # Contirbute and enhanced this project
 
  
