@@ -1,5 +1,3 @@
-# Student Attendance System
-
 # Aim
 
 To record attendance of a class on daily basis.
